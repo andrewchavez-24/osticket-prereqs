@@ -17,17 +17,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create an Azure Virtual Machine Windows 10, 2 vCPUs
-- Log into the VM with Remote Desktop
+- Enable IIS
+- Install web platform installer
+- Install mySQL
+- Install C++ Redistributable
+- Configure Permissions and install osTicket
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="(https://github.com/user-attachments/assets/0db22918-b94b-49ec-8d81-cbdb9f561d4a)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-![image](https://github.com/user-attachments/assets/0db22918-b94b-49ec-8d81-cbdb9f561d4a)
+ ![image](https://github.com/user-attachments/assets/79d9f3bc-1c28-43da-b979-0c000959b4e9)
 
-<p>
 Create an Azure Virtual Machine
   - Create new Resource Group: osTicket
   - Virtual Machine Name: osticket-vm
@@ -35,8 +34,6 @@ Create an Azure Virtual Machine
   - Size: 2 vCPUs
   - Username: labuser
   - Password: osTicketPassword1!
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
