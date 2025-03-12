@@ -211,3 +211,8 @@ You should now see the page telling you that osTicket is finally installed and t
 </p>
 
 ![Screen Shot 2025-03-06 at 1 19 44 PM](https://github.com/user-attachments/assets/73124a65-eaf8-4cef-9f10-6b5767c94b21)
+
+<b>osTicket is now installed and ready for use! In the next project I will walk you through how to configure osTicket!  </b>
+<br />
+<br />
+</p>
