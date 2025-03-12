@@ -207,7 +207,7 @@ Click “Install Now!”
 
 <br>
 <p>
-You should now seeing the page telling you that osTicket is finally installed and all the links to login into the osTicket as a general user (http://localhost/osTicket) or as staff (http://localhost/osTicket/scp).
+You should now see the page telling you that osTicket is finally installed and the links to login into the osTicket as a general user (http://localhost/osTicket) or as staff (http://localhost/osTicket/scp).
 </p>
 
 ![Screen Shot 2025-03-06 at 1 19 44 PM](https://github.com/user-attachments/assets/73124a65-eaf8-4cef-9f10-6b5767c94b21)
